@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AWS and ML
 - 💞️ I’m looking to collaborate on Data Analysis Projects 
 - 📫 How to reach me linkedin.com/in/shantanugaur-data
+
   ⚡ Fun fact: Less than 0.5% of all data we created is ever used or analyzed so don't you ever tell me there is not enough Data !
 
 <!---
